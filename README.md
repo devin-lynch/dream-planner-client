@@ -1,6 +1,9 @@
 # Dream Planner
 Everyone has a dream vacation in their bucketlist.  We're here to bring those dreams closer to reality with a budget tracker.  Users can post and share their dream vacation and calculate how much they need to save each week.  Once the user goes on their vacation, they can add actual expenses to the trips and monitor their expenses against their budget.
 
+## Deployed Site
+https://dreamplanner-dl.netlify.app/
+
  
 
 ## Team Members
